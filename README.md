@@ -8,4 +8,4 @@
 - Lockscreen: hyprlock
 - Colors: OneDark
 
-
+![desk preview](desk.png)
