@@ -1,11 +1,13 @@
-- OS: ArchLinux
-- Code Editor: lvim
-- WM: hyprland
-- Terminal: Alacritty
-- Bar: waybar
-- Browser: Firefox
-- Application Launcher and Power Menu: rofi
-- Lockscreen: hyprlock
-- Colors: OneDark
+## System Information
 
+- **OS:** Arch Linux  
+- **Window Manager:** Hyprland  
+- **Terminal:** Alacritty  
+- **Bar:** Waybar  
+- **Application Launcher & Power Menu:** Rofi  
+- **Lockscreen:** Hyprlock  
+- **Code Editor:** `lvim`  
+- **Browser:** Firefox  
+- **Document Viewer:** Zathura  
+- **Color Scheme:** OneDark
 ![desk preview](desk.png)
