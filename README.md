@@ -10,4 +10,6 @@
 - **Browser:** Firefox  
 - **Document Viewer:** Zathura  
 - **Color Scheme:** OneDark
+
 ![desk preview](desk.png)
+![desk preview](desk2.png)
